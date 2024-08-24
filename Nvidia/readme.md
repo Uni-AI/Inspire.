@@ -1,0 +1,1 @@
+- [host ALL your AI locally](https://youtu.be/Wjrdr0NU4Sk)
