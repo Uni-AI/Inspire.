@@ -1,0 +1,3 @@
+- [Feed Your OWN Documents to a Local Large Language Model!](https://youtu.be/fFgyOucIFuk)
+- [How do Graphics Cards Work? Exploring GPU Architecture](https://youtu.be/h9Z4oGN89MU)
+- [NVDIA Nemotron 70b SHOCKS the World with Its Unbeatable Performance!](https://youtu.be/ML_H6NyeJhw)
